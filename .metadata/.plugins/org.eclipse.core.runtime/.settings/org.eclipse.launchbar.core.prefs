@@ -1,0 +1,12 @@
+LaunchTargetManager/configs/MPIHelloWorld\ Debug=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/MulticastReceiver1=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Tomcat\ v9.0\ Server\ at\ localhost=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:GoProjects,org.eclipse.launchbar.core.descriptorType.default\:Main,org.eclipse.launchbar.core.descriptorType.default\:MulticastSender,org.eclipse.launchbar.core.descriptorType.default\:MulticastReceiver1,org.eclipse.launchbar.core.descriptorType.default\:GoProjects - hello - Copy,org.eclipse.launchbar.core.descriptorType.default\:MyGrpcServer,org.eclipse.launchbar.core.descriptorType.default\:MyGrpcClient,org.eclipse.launchbar.core.descriptorType.default\:New_configuration,org.eclipse.launchbar.core.descriptorType.default\:simpleTest,org.eclipse.launchbar.core.descriptorType.default\:Tomcat v9.0 Server at localhost,org.eclipse.launchbar.core.descriptorType.default\:New configuration,org.eclipse.launchbar.core.descriptorType.default\:MPIHelloWorld Debug,org.eclipse.launchbar.core.descriptorType.default\:Pthread_C.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:GoProjects\ -\ hello\ -\ Copy/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:GoProjects\ -\ hello\ -\ Copy/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:GoProjects/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:GoProjects/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

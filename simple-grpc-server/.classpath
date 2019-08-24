@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/protobuf-java-3.7.0-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-all-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-alts-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-auth-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-benchmarks-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-context-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-core-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-grpclb-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-interop-testing-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-netty-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-netty-shaded-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-okhttp-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-protobuf-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-protobuf-lite-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-protobuf-nano-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-services-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-stub-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-testing-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/grpc-testing-proto-1.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/netty-all-4.1.33.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/opencensus-api-0.19.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/opencensus-contrib-grpc-metrics-0.19.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/protobuf-java-3.7.0-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/grpc/slf4j-nop-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

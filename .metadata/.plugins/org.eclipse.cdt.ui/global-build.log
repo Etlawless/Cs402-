@@ -1,0 +1,11 @@
+17:36:29 **** Incremental Build of configuration Debug for project Pthread_C ****
+Info: Internal Builder is used for build
+gcc "-IC:\\MinGW\\x86_64-w64-mingw32\\include" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PthreadBarrier.o" "..\\src\\PthreadBarrier.c" 
+gcc "-LC:\\MinGW\\x86_64-w64-mingw32\\lib" -o Pthread_C.exe "src\\PthreadBarrier.o" -lpthread 
+Info: Nothing to build for Pthread_C
+Info: Nothing to build for MPIHelloWorld
+Info: Nothing to build for MPIHelloWorld
+Info: Nothing to build for MPIHelloWorld
+Info: Nothing to build for MPIHelloWorld
+Info: Nothing to build for MPIHelloWorld
+Info: Nothing to build for Pthread_C

@@ -1,0 +1,17 @@
+2019-04-17 12:34:10,930 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-04-17 12:44:58,652 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-17 13:02:38,317 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-18 00:44:52,386 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-18 00:57:49,986 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-18 13:16:39,955 [main] INFO  o.e.j.client.core.ClientTestImpl - adding IAUTEventListener org.eclipse.jubula.client.ui.rcp.controllers.TestExecutionContributor:org.eclipse.jubula.client.ui.rcp.controllers.TestExecutionContributor@3e96089a
+2019-04-18 13:17:09,809 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-18 14:02:26,947 [main] INFO  o.e.j.client.core.ClientTestImpl - adding IAUTEventListener org.eclipse.jubula.client.ui.rcp.controllers.TestExecutionContributor:org.eclipse.jubula.client.ui.rcp.controllers.TestExecutionContributor@1834b71b
+2019-04-18 14:03:04,482 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-18 14:51:56,584 [main] INFO  o.e.j.client.core.ClientTestImpl - adding IAUTEventListener org.eclipse.jubula.client.ui.rcp.controllers.TestExecutionContributor:org.eclipse.jubula.client.ui.rcp.controllers.TestExecutionContributor@2adc8e41
+2019-04-18 14:52:20,543 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-30 13:12:35,063 [main] INFO  o.e.j.client.core.ClientTestImpl - adding IAUTEventListener org.eclipse.jubula.client.ui.rcp.controllers.TestExecutionContributor:org.eclipse.jubula.client.ui.rcp.controllers.TestExecutionContributor@c24e06a
+2019-04-30 13:13:21,638 [Worker-14: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-04-30 16:28:24,144 [main] INFO  o.e.j.client.core.ClientTestImpl - adding IAUTEventListener org.eclipse.jubula.client.ui.rcp.controllers.TestExecutionContributor:org.eclipse.jubula.client.ui.rcp.controllers.TestExecutionContributor@1049770a
+2019-04-30 16:28:53,351 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-08 16:30:20,425 [main] INFO  o.e.j.client.core.ClientTestImpl - adding IAUTEventListener org.eclipse.jubula.client.ui.rcp.controllers.TestExecutionContributor:org.eclipse.jubula.client.ui.rcp.controllers.TestExecutionContributor@6050ea4e
+2019-05-08 16:30:59,709 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
